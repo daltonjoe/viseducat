@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_viseducat_library_viseducat_library,viseducat_library.viseducat_library,model_viseducat_library_viseducat_library,base.group_user,1,1,1,1
+access_vm_library_card_type,access.library.vm.library.card.type,model_library_vm_library_card_type,,1,1,1,1
+access_vm_library_card,access.vm.library_card,model_vm_library_card,,1,1,1,1
+access_vm_media,access.vm.media,model_vm_media,,1,1,1,1
+
